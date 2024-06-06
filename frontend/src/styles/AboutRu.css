@@ -1,0 +1,21 @@
+.AboutRu{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10%;
+    gap: 10px;
+}
+
+.Heading{
+    width: 500px;
+    
+}
+
+
+.Images{
+    width: 500px;
+    /* border: 1px solid black; */
+    display: flex;
+    /* flex-direction: row; */
+    flex-wrap: wrap;
+    gap: 10px;
+}

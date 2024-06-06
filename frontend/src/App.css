@@ -1,0 +1,13 @@
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.hover:hover{
+  background-color: rgb(230, 145, 84);
+}
+
+.contactus{
+  margin-top: 20px;
+}
